@@ -5,5 +5,7 @@ do
   echo "hello"
 done
 
+echo "this is version 2"
+
 echo “sleep now”
 sleep 3600
